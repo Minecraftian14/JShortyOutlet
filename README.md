@@ -1,6 +1,6 @@
 ## JShorty
 
-[![Discord Chat](https://img.shields.io/discord/872811194170347520?label=Discord)](https://discord.gg/8z497bUqSz)
+[![](https://img.shields.io/discord/872811194170347520?color=%237289da&logoColor=%23424549)](https://discord.gg/hZnHFGvU6W)
 
 [JShorty](https://github.com/Minecraftian14/JShortyOutlet/wiki) is pre-compiler utility allowing addition of customized syntax in a usual java program to provide freedom from repetitive code and boilerplates.
 
